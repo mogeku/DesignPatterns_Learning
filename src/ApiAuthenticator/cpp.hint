@@ -1,0 +1,2 @@
+#define APIAUTHENTICATOR_API __declspec(dllexport)
+#define APIAUTHENTICATOR_API __declspec(dllimport)
